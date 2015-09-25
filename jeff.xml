@@ -1,0 +1,2585 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Major Version</key><integer>1</integer>
+	<key>Minor Version</key><integer>1</integer>
+	<key>Date</key><date>2015-09-25T14:53:35Z</date>
+	<key>Application Version</key><string>12.3.0.44</string>
+	<key>Features</key><integer>5</integer>
+	<key>Show Content Ratings</key><true/>
+	<key>Music Folder</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/</string>
+	<key>Library Persistent ID</key><string>D14BDAEE43E741F0</string>
+	<key>Tracks</key>
+	<dict>
+		<key>129</key>
+		<dict>
+			<key>Track ID</key><integer>129</integer>
+			<key>Name</key><string>PAN-POT_FUSION2013</string>
+			<key>Artist</key><string>PAN-POT</string>
+			<key>Album</key><string>PAN-POT FUSION 2013 </string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>437329415</integer>
+			<key>Total Time</key><integer>10933133</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>BPM</key><integer>127</integer>
+			<key>Date Modified</key><date>2013-08-02T10:20:17Z</date>
+			<key>Date Added</key><date>2013-08-02T10:20:29Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>1617</integer>
+			<key>Persistent ID</key><string>8D585534544D77D1</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PAN-POT/PAN-POT%20FUSION%202013/PAN-POT_FUSION2013.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>131</key>
+		<dict>
+			<key>Track ID</key><integer>131</integer>
+			<key>Name</key><string>funkhaus-europa</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Date Added</key><date>2013-10-07T04:52:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>4</integer>
+			<key>Play Date</key><integer>3487049371</integer>
+			<key>Play Date UTC</key><date>2014-07-01T06:49:31Z</date>
+			<key>Persistent ID</key><string>29D13E95AFB28D5F</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://funkhaus-europa.akacast.akamaistream.net/7/264/119440/v1/gnl.akacast.akamaistream.net/funkhaus-europa</string>
+		</dict>
+		<key>133</key>
+		<dict>
+			<key>Track ID</key><integer>133</integer>
+			<key>Name</key><string>raoul k</string>
+			<key>Kind</key><string>AAC audio file</string>
+			<key>Size</key><integer>64433204</integer>
+			<key>Total Time</key><integer>7206505</integer>
+			<key>Date Modified</key><date>2013-10-30T15:12:51Z</date>
+			<key>Date Added</key><date>2013-10-30T15:26:08Z</date>
+			<key>Bit Rate</key><integer>70</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>2</integer>
+			<key>Skip Date</key><date>2013-10-30T15:32:34Z</date>
+			<key>Persistent ID</key><string>3276BD3C0DFFC788</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/raoul%20k.m4a</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>135</key>
+		<dict>
+			<key>Track ID</key><integer>135</integer>
+			<key>Name</key><string>The Glitz at The Villa Oslo - Norway - Voltage Musique Labelnight.mp3</string>
+			<key>Artist</key><string>The Glitz</string>
+			<key>Album Artist</key><string>The Glitz</string>
+			<key>Composer</key><string>Andreas Henneberg, Daniel Nitsch</string>
+			<key>Album</key><string>VOLTAGE MUSIQUE Labelnight at The Villa - Oslo / Norway</string>
+			<key>Grouping</key><string>The Glitz at The Villa Oslo - Norway - Voltage Musique Labelnight</string>
+			<key>Genre</key><string>Techhouse</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>297987183</integer>
+			<key>Total Time</key><integer>7454902</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-10-31T15:53:07Z</date>
+			<key>Date Added</key><date>2013-10-31T15:53:32Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.voltage-musique.com</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album Artist</key><string>Glitz</string>
+			<key>Sort Artist</key><string>Glitz</string>
+			<key>Sort Name</key><string>Glitz at The Villa Oslo - Norway - Voltage Musique Labelnight.mp3</string>
+			<key>Persistent ID</key><string>8B501FEEA277AFDD</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/The%20Glitz/VOLTAGE%20MUSIQUE%20Labelnight%20at%20The%20Villa%20-%20Oslo%20_%20Norway/The%20Glitz%20at%20The%20Villa%20Oslo%20-%20Norway%20-%20Voltage%20Musique%20Labelnight.mp3.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>137</key>
+		<dict>
+			<key>Track ID</key><integer>137</integer>
+			<key>Name</key><string>ARMA PODCAST 094: Sammy Dee @ Club Der Visionaere</string>
+			<key>Artist</key><string>Sammy Dee</string>
+			<key>Album</key><string>ARMA PODCAST</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>55673436</integer>
+			<key>Total Time</key><integer>3474311</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-01T09:34:54Z</date>
+			<key>Date Added</key><date>2013-11-01T09:35:23Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Sammy Dee @ ARMA17, Moscow / 2013-05-31</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3466150404</integer>
+			<key>Play Date UTC</key><date>2013-11-01T10:33:24Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>FE07127A11CD4A30</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Sammy%20Dee/ARMA%20PODCAST/ARMA%20PODCAST%20094_%20Sammy%20Dee%20@%20Club%20Der%20Visionaere.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>139</key>
+		<dict>
+			<key>Track ID</key><integer>139</integer>
+			<key>Name</key><string>Mr Raoul K - Train Wreck MIx 2013</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>63521770</integer>
+			<key>Total Time</key><integer>3969802</integer>
+			<key>Date Modified</key><date>2013-11-04T13:29:38Z</date>
+			<key>Date Added</key><date>2013-11-04T15:18:42Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>3</integer>
+			<key>Play Date</key><integer>3471591074</integer>
+			<key>Play Date UTC</key><date>2014-01-03T09:51:14Z</date>
+			<key>Normalization</key><integer>1455</integer>
+			<key>Persistent ID</key><string>7C7CE080FC7392DB</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Mr%20Raoul%20K%20-%20Train%20Wreck%20MIx%202013.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>141</key>
+		<dict>
+			<key>Track ID</key><integer>141</integer>
+			<key>Name</key><string>Windschaukel</string>
+			<key>Artist</key><string>Ziesel</string>
+			<key>Composer</key><string>ziesel</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>135052101</integer>
+			<key>Total Time</key><integer>3376248</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-06T15:47:53Z</date>
+			<key>Date Added</key><date>2013-11-06T15:48:16Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>http://www.facebook.com/ziesel.music
+http://www.soundcloud.com/ziesel</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3466604684</integer>
+			<key>Play Date UTC</key><date>2013-11-06T16:44:44Z</date>
+			<key>Persistent ID</key><string>6F0ACFB6459F60E0</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Ziesel/Unknown%20Album/Windschaukel.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>143</key>
+		<dict>
+			<key>Track ID</key><integer>143</integer>
+			<key>Name</key><string>Killer</string>
+			<key>Artist</key><string>viperflo</string>
+			<key>Album Artist</key><string>viperflo</string>
+			<key>Composer</key><string>viperflo</string>
+			<key>Album</key><string>viperflo - Killer</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>135945071</integer>
+			<key>Total Time</key><integer>3352058</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2013-11-06T16:47:22Z</date>
+			<key>Date Added</key><date>2013-11-06T16:47:23Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3466608206</integer>
+			<key>Play Date UTC</key><date>2013-11-06T17:43:26Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-30T10:57:32Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>BFC9B10A0C230552</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/viperflo/viperflo%20-%20Killer/Killer.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>145</key>
+		<dict>
+			<key>Track ID</key><integer>145</integer>
+			<key>Name</key><string>Daniel Zuur LIVE @ Katerholzig Berlin 8.11.2013</string>
+			<key>Artist</key><string>Daniel Zuur</string>
+			<key>Album Artist</key><string>Daniel Zuur</string>
+			<key>Album</key><string>Live @ Heinz, Katerholzig Berlin 8.11.2013</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>217075850</integer>
+			<key>Total Time</key><integer>5426416</integer>
+			<key>Date Modified</key><date>2013-11-21T14:41:41Z</date>
+			<key>Date Added</key><date>2013-11-21T14:42:24Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Normalization</key><integer>3126</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B318FBF597AA0061</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Daniel%20Zuur/Live%20@%20Heinz,%20Katerholzig%20Berlin%208.11.2013/Daniel%20Zuur%20LIVE%20@%20Katerholzig%20Berlin%208.11.2013.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>147</key>
+		<dict>
+			<key>Track ID</key><integer>147</integer>
+			<key>Name</key><string>OUR WORLD</string>
+			<key>Artist</key><string>Nicolas Jaar</string>
+			<key>Kind</key><string>AIFF audio file</string>
+			<key>Size</key><integer>654957596</integer>
+			<key>Total Time</key><integer>3703537</integer>
+			<key>Year</key><integer>2013</integer>
+			<key>Date Modified</key><date>2014-01-30T08:50:01Z</date>
+			<key>Date Added</key><date>2014-01-30T08:50:05Z</date>
+			<key>Bit Rate</key><integer>1411</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473925065</integer>
+			<key>Play Date UTC</key><date>2014-01-30T10:11:05Z</date>
+			<key>Normalization</key><integer>1230</integer>
+			<key>Artwork Count</key><integer>2</integer>
+			<key>Persistent ID</key><string>C8AD3AB97AD4F29C</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Nicolas%20Jaar/Unknown%20Album/OUR%20WORLD.aif</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>149</key>
+		<dict>
+			<key>Track ID</key><integer>149</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.01_em_Op.72_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4527650</integer>
+			<key>Total Time</key><integer>113162</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473927834</integer>
+			<key>Play Date UTC</key><date>2014-01-30T10:57:14Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-22T08:16:23Z</date>
+			<key>Persistent ID</key><string>BC79BD7F63A3704B</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.01_em_Op.72_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>151</key>
+		<dict>
+			<key>Track ID</key><integer>151</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.02_in_c_sharp_minor_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5874523</integer>
+			<key>Total Time</key><integer>146834</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473928002</integer>
+			<key>Play Date UTC</key><date>2014-01-30T11:00:02Z</date>
+			<key>Persistent ID</key><string>A206DC4C94EFB7B0</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.02_in_c_sharp_minor_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>153</key>
+		<dict>
+			<key>Track ID</key><integer>153</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.03_in_bfm_Op.9_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10718670</integer>
+			<key>Total Time</key><integer>267937</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473928270</integer>
+			<key>Play Date UTC</key><date>2014-01-30T11:04:30Z</date>
+			<key>Persistent ID</key><string>52AC5EEF4BEF71E9</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.03_in_bfm_Op.9_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>155</key>
+		<dict>
+			<key>Track ID</key><integer>155</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.04_in_EfM_Op.9_2_SDRodrian</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7193185</integer>
+			<key>Total Time</key><integer>179800</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>5F539E2BAA12E475</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Chopin_Nocturne_No.04_in_EfM_Op.9_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>157</key>
+		<dict>
+			<key>Track ID</key><integer>157</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.05_in_B_Op.9_3_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11143944</integer>
+			<key>Total Time</key><integer>278569</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473928549</integer>
+			<key>Play Date UTC</key><date>2014-01-30T11:09:09Z</date>
+			<key>Persistent ID</key><string>D4D50289DCB1B898</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.05_in_B_Op.9_3_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>159</key>
+		<dict>
+			<key>Track ID</key><integer>159</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.06_in_F_Op.15_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5858850</integer>
+			<key>Total Time</key><integer>146442</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>7A37E7C0F10759AC</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.06_in_F_Op.15_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>161</key>
+		<dict>
+			<key>Track ID</key><integer>161</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.07_in_F_sharp_Op.15_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>5436711</integer>
+			<key>Total Time</key><integer>135888</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>E369EE0D90794A20</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.07_in_F_sharp_Op.15_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>163</key>
+		<dict>
+			<key>Track ID</key><integer>163</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.08_in_gm_Op.15_3_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8252711</integer>
+			<key>Total Time</key><integer>206288</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>94CEC45CCD714C17</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.08_in_gm_Op.15_3_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>165</key>
+		<dict>
+			<key>Track ID</key><integer>165</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.09_in_c_sharp_minor_Op.27_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7150344</integer>
+			<key>Total Time</key><integer>178729</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>990F832D4A2740F9</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.09_in_c_sharp_minor_Op.27_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>167</key>
+		<dict>
+			<key>Track ID</key><integer>167</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.10_in_DfM_Op.27_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6247552</integer>
+			<key>Total Time</key><integer>156160</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>A9CB97CC486EF359</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.10_in_DfM_Op.27_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>169</key>
+		<dict>
+			<key>Track ID</key><integer>169</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.11_in_B_Op.32_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6451307</integer>
+			<key>Total Time</key><integer>161253</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>5AE349EE4E0E330A</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.11_in_B_Op.32_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>171</key>
+		<dict>
+			<key>Track ID</key><integer>171</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.12_in_AfM_Op.32_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6677005</integer>
+			<key>Total Time</key><integer>166896</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473938089</integer>
+			<key>Play Date UTC</key><date>2014-01-30T13:48:09Z</date>
+			<key>Persistent ID</key><string>A2FB7160FADDEDF0</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.12_in_AfM_Op.32_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>173</key>
+		<dict>
+			<key>Track ID</key><integer>173</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.13_in_cm_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>4334344</integer>
+			<key>Total Time</key><integer>108329</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-30T14:15:51Z</date>
+			<key>Persistent ID</key><string>4343AF4BB923E320</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.13_in_cm_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>175</key>
+		<dict>
+			<key>Track ID</key><integer>175</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.14_in_gm_Op.37_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>10234883</integer>
+			<key>Total Time</key><integer>255843</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>BAE641125D6B449E</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.14_in_gm_Op.37_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>177</key>
+		<dict>
+			<key>Track ID</key><integer>177</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.15_in_G_Op.37_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6405332</integer>
+			<key>Total Time</key><integer>160104</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>945539276825A461</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.15_in_G_Op.37_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>179</key>
+		<dict>
+			<key>Track ID</key><integer>179</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.16_in_cm_Op.48_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7612189</integer>
+			<key>Total Time</key><integer>190275</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>404DD6D680BD6FFB</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.16_in_cm_Op.48_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>181</key>
+		<dict>
+			<key>Track ID</key><integer>181</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.17_in_f_sharp_minor_Op.48_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>11314262</integer>
+			<key>Total Time</key><integer>282827</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>9C23C033A10A937A</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.17_in_f_sharp_minor_Op.48_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>183</key>
+		<dict>
+			<key>Track ID</key><integer>183</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.18_in_fm_Op.55_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>8668581</integer>
+			<key>Total Time</key><integer>216685</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>A25A5CF753F4BB02</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.18_in_fm_Op.55_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>185</key>
+		<dict>
+			<key>Track ID</key><integer>185</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.19_in_EfM_Op.55_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6322785</integer>
+			<key>Total Time</key><integer>158040</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>571DC44CEF0A4352</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.19_in_EfM_Op.55_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>187</key>
+		<dict>
+			<key>Track ID</key><integer>187</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.20_in_B_Op.62_1_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>12380058</integer>
+			<key>Total Time</key><integer>309472</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>36BF3C521D396C72</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.20_in_B_Op.62_1_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>189</key>
+		<dict>
+			<key>Track ID</key><integer>189</integer>
+			<key>Name</key><string>Chopin_Nocturne_No.21_in_E_Op.62_2_SDRodrian</string>
+			<key>Artist</key><string>S D Rodrian</string>
+			<key>Genre</key><string>Blues</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>6847323</integer>
+			<key>Total Time</key><integer>171154</integer>
+			<key>Year</key><integer>2004</integer>
+			<key>Date Modified</key><date>2014-01-30T09:53:18Z</date>
+			<key>Date Added</key><date>2014-01-30T10:55:18Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>S D Rodrian Audigy 2 ZS Pentium 4 3.4</string>
+			<key>Persistent ID</key><string>02864FC113AA9377</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/S%20D%20Rodrian/Unknown%20Album/Chopin_Nocturne_No.21_in_E_Op.62_2_SDRodrian.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>191</key>
+		<dict>
+			<key>Track ID</key><integer>191</integer>
+			<key>Name</key><string>I.AllegroModerato</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>9404222</integer>
+			<key>Total Time</key><integer>1007046</integer>
+			<key>Date Modified</key><date>2009-12-23T11:19:42Z</date>
+			<key>Date Added</key><date>2014-01-30T13:14:19Z</date>
+			<key>Bit Rate</key><integer>74</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473937094</integer>
+			<key>Play Date UTC</key><date>2014-01-30T13:31:34Z</date>
+			<key>Persistent ID</key><string>7EFC4B2F2975C5C6</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/I.AllegroModerato.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>193</key>
+		<dict>
+			<key>Track ID</key><integer>193</integer>
+			<key>Name</key><string>Ii.CanzonettaIii.Finale</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>7366792</integer>
+			<key>Total Time</key><integer>826331</integer>
+			<key>Date Modified</key><date>2009-12-23T11:26:56Z</date>
+			<key>Date Added</key><date>2014-01-30T13:31:34Z</date>
+			<key>Bit Rate</key><integer>71</integer>
+			<key>Sample Rate</key><integer>22050</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473937923</integer>
+			<key>Play Date UTC</key><date>2014-01-30T13:45:23Z</date>
+			<key>Persistent ID</key><string>9F3DB674E1FABA0E</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Ii.CanzonettaIii.Finale.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>195</key>
+		<dict>
+			<key>Track ID</key><integer>195</integer>
+			<key>Name</key><string>Symphony No. 9 in D Major - I. Andante comodo</string>
+			<key>Artist</key><string>Barbara Schubert; University of Chicago Symphony Orchestra</string>
+			<key>Album</key><string>Mahler: Symphony No. 9 - Mandel Hall - 03 March 2007</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>39442796</integer>
+			<key>Total Time</key><integer>1654386</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Date Modified</key><date>2008-05-29T20:00:56Z</date>
+			<key>Date Added</key><date>2014-01-30T13:48:08Z</date>
+			<key>Bit Rate</key><integer>190</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473939746</integer>
+			<key>Play Date UTC</key><date>2014-01-30T14:15:46Z</date>
+			<key>Persistent ID</key><string>A020DD32CBBDA900</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Barbara%20Schubert%3B%20University%20of%20Chicago%20Symphony%20Orchestra/Mahler_%20Symphony%20No.%209%20-%20Mandel%20Hall%20-%2003%20March%202007/01%20Symphony%20No.%209%20in%20D%20Major%20-%20I.%20Andante%20comodo.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>197</key>
+		<dict>
+			<key>Track ID</key><integer>197</integer>
+			<key>Name</key><string>Symphony No. 9 in D Major - II. Im Tempo eines gemÃ€chlichen LÃ€ndlers. Etwas tÃ€ppisch und sehr derb</string>
+			<key>Artist</key><string>Barbara Schubert; University of Chicago Symphony Orchestra</string>
+			<key>Album</key><string>Mahler: Symphony No. 9 - Mandel Hall - 03 March 2007</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>22242382</integer>
+			<key>Total Time</key><integer>910106</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Date Modified</key><date>2008-05-29T20:07:18Z</date>
+			<key>Date Added</key><date>2014-01-30T13:48:08Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473940699</integer>
+			<key>Play Date UTC</key><date>2014-01-30T14:31:39Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-01-31T16:43:41Z</date>
+			<key>Persistent ID</key><string>8EF0471251AE96AD</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Barbara%20Schubert%3B%20University%20of%20Chicago%20Symphony%20Orchestra/Mahler_%20Symphony%20No.%209%20-%20Mandel%20Hall%20-%2003%20March%202007/02%20Symphony%20No.%209%20in%20D%20Major%20-%20II.%20Im%20Tempo%20eines%20gemA%CC%83%E2%82%ACchlichen%20LA%CC%83%E2%82%ACndlers.%20Etwas%20tA%CC%83%E2%82%ACppisch%20und%20sehr%20derb.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>199</key>
+		<dict>
+			<key>Track ID</key><integer>199</integer>
+			<key>Name</key><string>Symphony No. 9 in D Major - III. Rondo-Burleske: Allegro assai. Sehr trotzig</string>
+			<key>Artist</key><string>Barbara Schubert; University of Chicago Symphony Orchestra</string>
+			<key>Album</key><string>Mahler: Symphony No. 9 - Mandel Hall - 03 March 2007</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>20550016</integer>
+			<key>Total Time</key><integer>850494</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Date Modified</key><date>2008-05-29T19:42:28Z</date>
+			<key>Date Added</key><date>2014-01-30T13:48:08Z</date>
+			<key>Bit Rate</key><integer>193</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473941549</integer>
+			<key>Play Date UTC</key><date>2014-01-30T14:45:49Z</date>
+			<key>Persistent ID</key><string>70BC62E23465BF5F</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Barbara%20Schubert%3B%20University%20of%20Chicago%20Symphony%20Orchestra/Mahler_%20Symphony%20No.%209%20-%20Mandel%20Hall%20-%2003%20March%202007/03%20Symphony%20No.%209%20in%20D%20Major%20-%20III.%20Rondo-Burleske_%20Allegro%20assai.%20Sehr%20trotzig.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>201</key>
+		<dict>
+			<key>Track ID</key><integer>201</integer>
+			<key>Name</key><string>Symphony No. 9 in D Major - IV. Adagio. Sehr langsam und noch zurÃπckhaltend</string>
+			<key>Artist</key><string>Barbara Schubert; University of Chicago Symphony Orchestra</string>
+			<key>Album</key><string>Mahler: Symphony No. 9 - Mandel Hall - 03 March 2007</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>34695453</integer>
+			<key>Total Time</key><integer>1422471</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Date Modified</key><date>2008-05-29T19:48:16Z</date>
+			<key>Date Added</key><date>2014-01-30T13:48:08Z</date>
+			<key>Bit Rate</key><integer>195</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3473942977</integer>
+			<key>Play Date UTC</key><date>2014-01-30T15:09:37Z</date>
+			<key>Persistent ID</key><string>526ED11175621263</string>
+			<key>Disabled</key><true/>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Barbara%20Schubert%3B%20University%20of%20Chicago%20Symphony%20Orchestra/Mahler_%20Symphony%20No.%209%20-%20Mandel%20Hall%20-%2003%20March%202007/04%20Symphony%20No.%209%20in%20D%20Major%20-%20IV.%20Adagio.%20Sehr%20langsam%20und%20noch%20zurA%CC%83%CF%80ckhaltend.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>203</key>
+		<dict>
+			<key>Track ID</key><integer>203</integer>
+			<key>Name</key><string>BBC Radio One Mix</string>
+			<key>Artist</key><string>Monkey Safari</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>71994571</integer>
+			<key>Total Time</key><integer>1799810</integer>
+			<key>Date Modified</key><date>2014-01-31T13:09:11Z</date>
+			<key>Date Added</key><date>2014-01-31T13:09:39Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3474023983</integer>
+			<key>Play Date UTC</key><date>2014-01-31T13:39:43Z</date>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2014-03-22T08:15:46Z</date>
+			<key>Normalization</key><integer>1894</integer>
+			<key>Persistent ID</key><string>2A2A28EAEABCE321</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Monkey%20Safari/Unknown%20Album/BBC%20Radio%20One%20Mix.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>205</key>
+		<dict>
+			<key>Track ID</key><integer>205</integer>
+			<key>Name</key><string>mixgenev41606</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>443567</integer>
+			<key>Total Time</key><integer>22073</integer>
+			<key>Date Modified</key><date>2008-11-16T22:57:52Z</date>
+			<key>Date Added</key><date>2014-03-04T11:32:23Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3478324636</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:17:16Z</date>
+			<key>Normalization</key><integer>243</integer>
+			<key>Persistent ID</key><string>FA552BE8AA699678</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/mixgenev41606.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>207</key>
+		<dict>
+			<key>Track ID</key><integer>207</integer>
+			<key>Name</key><string>Track 71 – Rückblick 04 Übung 13</string>
+			<key>Artist</key><string>PONS</string>
+			<key>Album</key><string>Französisch live (Hörtexte)</string>
+			<key>Genre</key><string>Sprachkurs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>138883</integer>
+			<key>Total Time</key><integer>5825</integer>
+			<key>Track Number</key><integer>71</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-03T12:53:38Z</date>
+			<key>Date Added</key><date>2014-03-22T08:15:24Z</date>
+			<key>Bit Rate</key><integer>95</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pons.eu/www.pons.de</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3478324682</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:18:02Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>B6DA9521252B31F6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PONS/Franzo%CC%88sisch%20live%20(Ho%CC%88rtexte)/71%20Track%2071%20%E2%80%93%20Ru%CC%88ckblick%2004%20U%CC%88bung%2013.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>209</key>
+		<dict>
+			<key>Track ID</key><integer>209</integer>
+			<key>Name</key><string>Track 01 – Lektion 1 Übung 1</string>
+			<key>Artist</key><string>PONS</string>
+			<key>Album</key><string>Französisch live (Hörtexte)</string>
+			<key>Genre</key><string>Sprachkurs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>335153</integer>
+			<key>Total Time</key><integer>31582</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-03T12:53:37Z</date>
+			<key>Date Added</key><date>2014-03-22T08:16:17Z</date>
+			<key>Bit Rate</key><integer>67</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pons.eu/www.pons.de</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3478324615</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:16:55Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>CEE9ADBF98394F51</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PONS/Franzo%CC%88sisch%20live%20(Ho%CC%88rtexte)/01%20Track%2001%20%E2%80%93%20Lektion%201%20U%CC%88bung%201.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>211</key>
+		<dict>
+			<key>Track ID</key><integer>211</integer>
+			<key>Name</key><string>Track 02 – Lektion 1 Übung 3</string>
+			<key>Artist</key><string>PONS</string>
+			<key>Album</key><string>Französisch live (Hörtexte)</string>
+			<key>Genre</key><string>Sprachkurs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>240304</integer>
+			<key>Total Time</key><integer>19957</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-03T12:53:37Z</date>
+			<key>Date Added</key><date>2014-03-22T08:17:16Z</date>
+			<key>Bit Rate</key><integer>68</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pons.eu/www.pons.de</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3478324676</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:17:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>592F2C10F3D03813</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PONS/Franzo%CC%88sisch%20live%20(Ho%CC%88rtexte)/02%20Track%2002%20%E2%80%93%20Lektion%201%20U%CC%88bung%203.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>213</key>
+		<dict>
+			<key>Track ID</key><integer>213</integer>
+			<key>Name</key><string>Track 03 – Lektion 1 Übung 4</string>
+			<key>Artist</key><string>PONS</string>
+			<key>Album</key><string>Französisch live (Hörtexte)</string>
+			<key>Genre</key><string>Sprachkurs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>830587</integer>
+			<key>Total Time</key><integer>52192</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-03T12:53:37Z</date>
+			<key>Date Added</key><date>2014-03-22T08:18:10Z</date>
+			<key>Bit Rate</key><integer>116</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pons.eu/www.pons.de</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3478324745</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:19:05Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3973493B952B498A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PONS/Franzo%CC%88sisch%20live%20(Ho%CC%88rtexte)/03%20Track%2003%20%E2%80%93%20Lektion%201%20U%CC%88bung%204.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>215</key>
+		<dict>
+			<key>Track ID</key><integer>215</integer>
+			<key>Name</key><string>Track 04 – Lektion 1 Übung 5</string>
+			<key>Artist</key><string>PONS</string>
+			<key>Album</key><string>Französisch live (Hörtexte)</string>
+			<key>Genre</key><string>Sprachkurs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>507305</integer>
+			<key>Total Time</key><integer>47908</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-03T12:53:37Z</date>
+			<key>Date Added</key><date>2014-03-22T08:20:01Z</date>
+			<key>Bit Rate</key><integer>73</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pons.eu/www.pons.de</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3478324852</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:20:52Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>437C39EB74AEB6FA</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PONS/Franzo%CC%88sisch%20live%20(Ho%CC%88rtexte)/04%20Track%2004%20%E2%80%93%20Lektion%201%20U%CC%88bung%205.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>217</key>
+		<dict>
+			<key>Track ID</key><integer>217</integer>
+			<key>Name</key><string>Track 05 – Lektion 1 Übung 7 und 8</string>
+			<key>Artist</key><string>PONS</string>
+			<key>Album</key><string>Französisch live (Hörtexte)</string>
+			<key>Genre</key><string>Sprachkurs</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>118771</integer>
+			<key>Total Time</key><integer>5851</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2012-02-03T12:53:37Z</date>
+			<key>Date Added</key><date>2014-03-22T08:24:00Z</date>
+			<key>Bit Rate</key><integer>67</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>www.pons.eu/www.pons.de</string>
+			<key>Play Count</key><integer>2</integer>
+			<key>Play Date</key><integer>3478325096</integer>
+			<key>Play Date UTC</key><date>2014-03-22T08:24:56Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>F9D0CFCC5BF4B34C</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/PONS/Franzo%CC%88sisch%20live%20(Ho%CC%88rtexte)/05%20Track%2005%20%E2%80%93%20Lektion%201%20U%CC%88bung%207%20und%208.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>219</key>
+		<dict>
+			<key>Track ID</key><integer>219</integer>
+			<key>Name</key><string>BeatsInSpace-04.01.14 Part1 with Jamie XX and John Talabot</string>
+			<key>Artist</key><string>Jamie XX and John Talabot</string>
+			<key>Album</key><string>www.beatsinspace.net</string>
+			<key>Genre</key><string>BIS Radio Mix</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>151299303</integer>
+			<key>Total Time</key><integer>4724349</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>2</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-04-04T09:42:49Z</date>
+			<key>Date Added</key><date>2014-04-04T09:43:37Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Radio Show #723</string>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3479461348</integer>
+			<key>Play Date UTC</key><date>2014-04-04T11:02:28Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>49B8CFD36C153392</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Jamie%20XX%20and%20John%20Talabot/www.beatsinspace.net/01%20BeatsInSpace-04.01.14%20Part1%20with%20Jamie%20XX%20and%20John%20Talabot.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>221</key>
+		<dict>
+			<key>Track ID</key><integer>221</integer>
+			<key>Name</key><string>88587-A1.mp3</string>
+			<key>Kind</key><string>MPEG audio stream</string>
+			<key>Total Time</key><integer>60055</integer>
+			<key>Date Added</key><date>2014-04-28T08:51:52Z</date>
+			<key>Bit Rate</key><integer>132</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>93D81842CB6B00CA</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://www.wordandsound.de/media/ram/88587-A1.mp3</string>
+		</dict>
+		<key>223</key>
+		<dict>
+			<key>Track ID</key><integer>223</integer>
+			<key>Name</key><string>Mr_Raoul_K-Still_Living_In_Slavery_Russian_Tour_2014_special_mixtape(www.mp3vip.org)</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>56552289</integer>
+			<key>Total Time</key><integer>3542622</integer>
+			<key>Date Modified</key><date>2014-04-28T12:46:37Z</date>
+			<key>Date Added</key><date>2014-04-28T12:46:52Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>06BF29B4EE1B08BE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Mr_Raoul_K-Still_Living_In_Slavery_Russian_Tour_2014_special_mixtape(www.mp3vip.org).mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>225</key>
+		<dict>
+			<key>Track ID</key><integer>225</integer>
+			<key>Name</key><string>index_0_av.m3u8</string>
+			<key>Kind</key><string>Internet audio stream</string>
+			<key>Total Time</key><integer>7375</integer>
+			<key>Date Added</key><date>2014-06-11T16:20:07Z</date>
+			<key>Bit Rate</key><integer>416</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>C0AAD7AF1600C22C</string>
+			<key>Track Type</key><string>URL</string>
+			<key>Location</key><string>http://universaldfbtv-vh.akamaihd.net/i/p-2180_u-_l-_a-_c-DE_e-8584_i-_k-_q-_t-hdvideo/hdflash/2014/2014-06-10_wm-pk-02-nationalmannschaft-highlights-final_,300,500,800,1200,.mp4.csmil/index_0_av.m3u8?null=</string>
+		</dict>
+		<key>227</key>
+		<dict>
+			<key>Track ID</key><integer>227</integer>
+			<key>Name</key><string>Kunstautomaten</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>2727182</integer>
+			<key>Total Time</key><integer>170448</integer>
+			<key>Date Modified</key><date>2014-07-23T20:53:56Z</date>
+			<key>Date Added</key><date>2014-07-23T20:54:10Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3489001021</integer>
+			<key>Play Date UTC</key><date>2014-07-23T20:57:01Z</date>
+			<key>Persistent ID</key><string>9312A602AB2BCDCF</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Kunstautomaten.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>229</key>
+		<dict>
+			<key>Track ID</key><integer>229</integer>
+			<key>Name</key><string>Mördergrube</string>
+			<key>Artist</key><string>WDR Hörspiel</string>
+			<key>Album</key><string>WDR Radio zum Mitnehmen</string>
+			<key>Genre</key><string>Other</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>49909498</integer>
+			<key>Total Time</key><integer>2495033</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-11-17T00:14:51Z</date>
+			<key>Date Added</key><date>2015-03-03T13:57:12Z</date>
+			<key>Bit Rate</key><integer>160</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Comments</key><string>Das Leben ist eine Sickergrube voller Erinnerungen. Aber was macht man, wenn der Gestank nicht mehr auszuhalten ist? André beschließt, den Sumpf auszuheben. Buch: Lorenz Schröter; Regie: Thomas Wolfertz © WDR 2014</string>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>126876AAABDE9D77</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/WDR%20Ho%CC%88rspiel/WDR%20Radio%20zum%20Mitnehmen/01%20Mo%CC%88rdergrube.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>231</key>
+		<dict>
+			<key>Track ID</key><integer>231</integer>
+			<key>Name</key><string>temperini @ VOODOOHOP Do Domingo Hipnótico Na Casa Da Luz</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>77258501</integer>
+			<key>Total Time</key><integer>4828656</integer>
+			<key>Date Modified</key><date>2015-03-09T13:10:25Z</date>
+			<key>Date Added</key><date>2015-03-09T13:12:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Skip Count</key><integer>1</integer>
+			<key>Skip Date</key><date>2015-08-18T08:39:51Z</date>
+			<key>Persistent ID</key><string>7DF354838BE26306</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/temperini%20@%20VOODOOHOP%20Do%20Domingo%20Hipno%CC%81tico%20Na%20Casa%20Da%20Luz.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>233</key>
+		<dict>
+			<key>Track ID</key><integer>233</integer>
+			<key>Name</key><string>tomaash - japanmixtape</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>72043206</integer>
+			<key>Total Time</key><integer>4502700</integer>
+			<key>Date Modified</key><date>2015-03-09T12:57:56Z</date>
+			<key>Date Added</key><date>2015-03-09T13:12:20Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FA7FB00CE8DC15D1</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/tomaash%20-%20japanmixtape.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>235</key>
+		<dict>
+			<key>Track ID</key><integer>235</integer>
+			<key>Name</key><string>temperini @ VOODOOHOP Do Domingo Hipnótico Na Casa Da Luz2</string>
+			<key>Artist</key><string>Kaiser Souzai</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>193156524</integer>
+			<key>Total Time</key><integer>4828656</integer>
+			<key>Date Modified</key><date>2015-08-18T09:35:11Z</date>
+			<key>Date Added</key><date>2015-03-09T13:24:49Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>D97C52B352E02B7D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Kaiser%20Souzai/Unknown%20Album/temperini%20@%20VOODOOHOP%20Do%20Domingo%20Hipno%CC%81tico%20Na%20Casa%20Da%20Luz2.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>237</key>
+		<dict>
+			<key>Track ID</key><integer>237</integer>
+			<key>Name</key><string>kaiser souzai - NOG</string>
+			<key>Artist</key><string>Kaiser Souzai</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>133836203</integer>
+			<key>Total Time</key><integer>8364120</integer>
+			<key>Date Modified</key><date>2015-08-18T09:34:55Z</date>
+			<key>Date Added</key><date>2015-08-18T09:33:41Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>F8D7528683439DDE</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Kaiser%20Souzai/Unknown%20Album/kaiser%20souzai%20-%20NOG.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>239</key>
+		<dict>
+			<key>Track ID</key><integer>239</integer>
+			<key>Name</key><string>ninze &#38; okaxy - lust cast 001</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>87403623</integer>
+			<key>Total Time</key><integer>5462726</integer>
+			<key>Date Modified</key><date>2015-08-18T09:22:08Z</date>
+			<key>Date Added</key><date>2015-08-18T10:01:30Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>FFA7A0E15BEB3FD6</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/ninze%20&#38;%20okaxy%20-%20lust%20cast%20001.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>241</key>
+		<dict>
+			<key>Track ID</key><integer>241</integer>
+			<key>Name</key><string>Die Caravane zieht.</string>
+			<key>Artist</key><string>Martha van Straaten</string>
+			<key>Album</key><string>Klangextase</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>164917380</integer>
+			<key>Total Time</key><integer>4122932</integer>
+			<key>Date Modified</key><date>2015-07-27T09:18:36Z</date>
+			<key>Date Added</key><date>2015-08-18T16:29:54Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>ADC93CDF23C74600</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Martha%20van%20Straaten/Klangextase/Die%20Caravane%20zieht..mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>243</key>
+		<dict>
+			<key>Track ID</key><integer>243</integer>
+			<key>Name</key><string>kaiser souzai - NOG</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>133825932</integer>
+			<key>Total Time</key><integer>8364120</integer>
+			<key>Date Modified</key><date>2015-08-05T13:54:15Z</date>
+			<key>Date Added</key><date>2015-08-20T16:28:03Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>974A1D349D5ABC6E</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/kaiser%20souzai%20-%20NOG.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>245</key>
+		<dict>
+			<key>Track ID</key><integer>245</integer>
+			<key>Name</key><string>#031 Thomash</string>
+			<key>Artist</key><string>Montagssorbet mit Laut &#38; Luise</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>170740508</integer>
+			<key>Total Time</key><integer>4266527</integer>
+			<key>Date Modified</key><date>2015-07-01T15:20:06Z</date>
+			<key>Date Added</key><date>2015-08-21T10:52:38Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>3A4CDD1C6E3FFD5B</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Montagssorbet%20mit%20Laut%20&#38;%20Luise/Unknown%20Album/%23031%20Thomash.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>247</key>
+		<dict>
+			<key>Track ID</key><integer>247</integer>
+			<key>Name</key><string>niju - klangextase podcast</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>87237275</integer>
+			<key>Total Time</key><integer>5452329</integer>
+			<key>Date Modified</key><date>2015-08-04T09:16:34Z</date>
+			<key>Date Added</key><date>2015-08-21T11:25:50Z</date>
+			<key>Bit Rate</key><integer>128</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Play Count</key><integer>1</integer>
+			<key>Play Date</key><integer>3523013815</integer>
+			<key>Play Date UTC</key><date>2015-08-21T12:56:55Z</date>
+			<key>Persistent ID</key><string>891F8E9F576A6A2D</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/niju%20-%20klangextase%20podcast.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>249</key>
+		<dict>
+			<key>Track ID</key><integer>249</integer>
+			<key>Name</key><string>Holger Hecler @Bachstelzen Fusion 2012</string>
+			<key>Artist</key><string>Holger Hecler</string>
+			<key>Album</key><string>Holger Hecler @Bachstelzen Fusion 2012</string>
+			<key>Genre</key><string>Electronic</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>269686347</integer>
+			<key>Total Time</key><integer>8416339</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>1</integer>
+			<key>Year</key><integer>2012</integer>
+			<key>Date Modified</key><date>2015-07-03T14:45:22Z</date>
+			<key>Date Added</key><date>2015-09-08T08:04:57Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Persistent ID</key><string>D0710C51BF487B8A</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Holger%20Hecler/Holger%20Hecler%20@Bachstelzen%20Fusion%202012/01%20Holger%20Hecler%20@Bachstelzen%20Fusion%202012.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>251</key>
+		<dict>
+			<key>Track ID</key><integer>251</integer>
+			<key>Name</key><string>Urban Cosmonaut Radio #5 by Urubu Marinka</string>
+			<key>Kind</key><string>MPEG audio file</string>
+			<key>Size</key><integer>191529143</integer>
+			<key>Total Time</key><integer>4792189</integer>
+			<key>Date Modified</key><date>2015-09-08T11:22:25Z</date>
+			<key>Date Added</key><date>2015-09-08T11:23:40Z</date>
+			<key>Bit Rate</key><integer>320</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Persistent ID</key><string>749D2CC276A0B276</string>
+			<key>Track Type</key><string>File</string>
+			<key>Location</key><string>file:///Users/jeff/Music/iTunes/iTunes%20Media/Music/Unknown%20Artist/Unknown%20Album/Urban%20Cosmonaut%20Radio%20%235%20by%20Urubu%20Marinka.mp3</string>
+			<key>File Folder Count</key><integer>5</integer>
+			<key>Library Folder Count</key><integer>1</integer>
+		</dict>
+		<key>650</key>
+		<dict>
+			<key>Track ID</key><integer>650</integer>
+			<key>Name</key><string>California (There Is No End to Love)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8465279</integer>
+			<key>Total Time</key><integer>239846</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>3</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>California (There Is No End to Love)</string>
+			<key>Persistent ID</key><string>DDA8FF9597633973</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>655</key>
+		<dict>
+			<key>Track ID</key><integer>655</integer>
+			<key>Name</key><string>Sleep Like a Baby Tonight</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10414554</integer>
+			<key>Total Time</key><integer>301641</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>9</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Sleep Like a Baby Tonight</string>
+			<key>Persistent ID</key><string>9C49145727CB8495</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>658</key>
+		<dict>
+			<key>Track ID</key><integer>658</integer>
+			<key>Name</key><string>Every Breaking Wave</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8842208</integer>
+			<key>Total Time</key><integer>252162</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>2</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Every Breaking Wave</string>
+			<key>Persistent ID</key><string>4B9877A52D769376</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>661</key>
+		<dict>
+			<key>Track ID</key><integer>661</integer>
+			<key>Name</key><string>Song for Someone</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8024225</integer>
+			<key>Total Time</key><integer>226763</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>4</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Song for Someone</string>
+			<key>Persistent ID</key><string>739D6EC6A66405DC</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>664</key>
+		<dict>
+			<key>Track ID</key><integer>664</integer>
+			<key>Name</key><string>Volcano</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>6904386</integer>
+			<key>Total Time</key><integer>194116</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>6</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Volcano</string>
+			<key>Persistent ID</key><string>859BCE45C83EC1F1</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>667</key>
+		<dict>
+			<key>Track ID</key><integer>667</integer>
+			<key>Name</key><string>The Miracle (Of Joey Ramone)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9300291</integer>
+			<key>Total Time</key><integer>255382</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>1</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Miracle (Of Joey Ramone)</string>
+			<key>Persistent ID</key><string>B637A74F32865BA7</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>670</key>
+		<dict>
+			<key>Track ID</key><integer>670</integer>
+			<key>Name</key><string>Cedarwood Road</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9336108</integer>
+			<key>Total Time</key><integer>265268</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>8</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Cedarwood Road</string>
+			<key>Persistent ID</key><string>363972ADEB48A819</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>673</key>
+		<dict>
+			<key>Track ID</key><integer>673</integer>
+			<key>Name</key><string>Raised By Wolves</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>8636426</integer>
+			<key>Total Time</key><integer>245599</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>7</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Raised By Wolves</string>
+			<key>Persistent ID</key><string>8CBB112428B3300D</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>676</key>
+		<dict>
+			<key>Track ID</key><integer>676</integer>
+			<key>Name</key><string>Iris (Hold Me Close)</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>11149865</integer>
+			<key>Total Time</key><integer>319457</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>5</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Iris (Hold Me Close)</string>
+			<key>Persistent ID</key><string>D5A8BF859ABC8F96</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>679</key>
+		<dict>
+			<key>Track ID</key><integer>679</integer>
+			<key>Name</key><string>The Troubles</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>9928436</integer>
+			<key>Total Time</key><integer>285843</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>11</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>Troubles</string>
+			<key>Persistent ID</key><string>6E11C48CE755611F</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+		<key>682</key>
+		<dict>
+			<key>Track ID</key><integer>682</integer>
+			<key>Name</key><string>This Is Where You Can Reach Me Now</string>
+			<key>Artist</key><string>U2</string>
+			<key>Album Artist</key><string>U2</string>
+			<key>Album</key><string>Songs of Innocence</string>
+			<key>Genre</key><string>Rock</string>
+			<key>Kind</key><string>Purchased AAC audio file</string>
+			<key>Size</key><integer>10715123</integer>
+			<key>Total Time</key><integer>305134</integer>
+			<key>Disc Number</key><integer>1</integer>
+			<key>Disc Count</key><integer>1</integer>
+			<key>Track Number</key><integer>10</integer>
+			<key>Track Count</key><integer>11</integer>
+			<key>Year</key><integer>2014</integer>
+			<key>Date Modified</key><date>2014-09-07T05:13:55Z</date>
+			<key>Date Added</key><date>2014-09-07T05:13:55Z</date>
+			<key>Bit Rate</key><integer>256</integer>
+			<key>Sample Rate</key><integer>44100</integer>
+			<key>Release Date</key><date>2014-09-09T07:00:00Z</date>
+			<key>Artwork Count</key><integer>1</integer>
+			<key>Sort Album</key><string>Songs of Innocence</string>
+			<key>Sort Artist</key><string>U2</string>
+			<key>Sort Name</key><string>This Is Where You Can Reach Me Now</string>
+			<key>Persistent ID</key><string>756838FA1A88B09B</string>
+			<key>Track Type</key><string>Remote</string>
+			<key>Purchased</key><true/>
+		</dict>
+	</dict>
+	<key>Playlists</key>
+	<array>
+		<dict>
+			<key>Name</key><string>Library</string>
+			<key>Description</key><string></string>
+			<key>Master</key><true/>
+			<key>Playlist ID</key><integer>253</integer>
+			<key>Playlist Persistent ID</key><string>127D7CBEFBF469C5</string>
+			<key>Visible</key><false/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>679</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>682</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>315</integer>
+			<key>Playlist Persistent ID</key><string>647118418B4893DA</string>
+			<key>Distinguished Kind</key><integer>4</integer>
+			<key>Music</key><true/>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>129</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>133</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>135</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>145</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>159</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>161</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>163</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>165</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>167</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>169</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>173</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>175</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>177</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>179</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>181</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>183</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>185</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>187</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>189</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>155</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>205</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>223</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>229</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>231</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>233</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>235</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>237</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>239</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>241</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>243</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>245</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>247</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>249</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>251</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>667</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>658</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>650</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>661</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>676</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>664</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>673</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>670</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>655</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>682</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>679</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>Movies</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>383</integer>
+			<key>Playlist Persistent ID</key><string>5AD9BEA569BEFED6</string>
+			<key>Distinguished Kind</key><integer>2</integer>
+			<key>Movies</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>TV Shows</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>389</integer>
+			<key>Playlist Persistent ID</key><string>AAE6C32B30128F88</string>
+			<key>Distinguished Kind</key><integer>3</integer>
+			<key>TV Shows</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Podcasts</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>392</integer>
+			<key>Playlist Persistent ID</key><string>9DF6174FABA55D0D</string>
+			<key>Distinguished Kind</key><integer>10</integer>
+			<key>Podcasts</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>iTunes U</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>399</integer>
+			<key>Playlist Persistent ID</key><string>778DCF7B99E5A741</string>
+			<key>Distinguished Kind</key><integer>31</integer>
+			<key>iTunesU</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Audiobooks</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>402</integer>
+			<key>Playlist Persistent ID</key><string>FDCCDF3D198196AD</string>
+			<key>Distinguished Kind</key><integer>5</integer>
+			<key>Audiobooks</key><true/>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Tones</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>418</integer>
+			<key>Playlist Persistent ID</key><string>846E07C065837C7D</string>
+			<key>Distinguished Kind</key><integer>6</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Genius</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>421</integer>
+			<key>Playlist Persistent ID</key><string>04799BC6D58DDEA2</string>
+			<key>Distinguished Kind</key><integer>26</integer>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>90’s Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>424</integer>
+			<key>Playlist Persistent ID</key><string>1A3D1DC071F8602E</string>
+			<key>Distinguished Kind</key><integer>200</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAcAAAEAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAB8YAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAB88AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQEA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABgFNMc3QAAQAB
+			AAAAAgAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAAABAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEQAAAAAAAAAIAAAAAAAAAAA
+			AAAAAAAAAAEAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAA==
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Classical Music</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>427</integer>
+			<key>Playlist Persistent ID</key><string>6BD0D47D77792335</string>
+			<key>Distinguished Kind</key><integer>206</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAQAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAU0xzdAABAAEAAAACAAAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8AAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAgAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAg
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEBAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABVxTTHN0AAEAAQAAABEAAAAB
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAABIAQwBsAGEAcwBzAGkAYwBhAGwAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABLAGwAYQBzAHMAaQBlAGsAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEgBD
+			AGwAYQBzAHMAaQBxAHUAZQAAAAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAOAEsAbABhAHMAcwBpAGsAAAAIAQAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEABDAGwAYQBzAHMAaQBjAGEAAAAI
+			AQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACjCv
+			MOkwtzDDMK8AAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAADgBDAGwA4QBzAGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAASwBsAGEAcwBzAGkAcwBrAAAACAEAAAEAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAQwBsAOEAcwBz
+			AGkAYwBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAABIASwBsAGEAcwBzAGkAcwBrAHQAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAQaBDsEMARBBEEEOARHBDUEQQQ6BDAETwAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAS
+			AEsAbABhAHMAeQBjAHoAbgBhAAAACAEAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAABIASwBsAGEAcwBzAGkAbgBlAG4AAAAIAQAAAQAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADABLAGwAYQBzAGkAawAA
+			AAgBAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAU
+			AEsAbABhAHMAcwB6AGkAawB1AHMAAAAIAQAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAFgBWAOEBfgBuAOEAIABoAHUAZABiAGEAAAAIAQAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADgZDBkQGJwYz
+			BkoGQwZK
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Music Videos</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>430</integer>
+			<key>Playlist Persistent ID</key><string>2B00F0E2AE92CCD8</string>
+			<key>Distinguished Kind</key><integer>205</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwAAAQAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAACAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>My Top Rated</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>433</integer>
+			<key>Playlist Persistent ID</key><string>A9E747558925E89A</string>
+			<key>Distinguished Kind</key><integer>201</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAABAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABkAAAAQAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAADwAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAADwAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAA=
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Added</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>436</integer>
+			<key>Playlist Persistent ID</key><string>2B7E7FFF449B09B7</string>
+			<key>Distinguished Kind</key><integer>204</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Recently Played</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>441</integer>
+			<key>Playlist Persistent ID</key><string>9AACBA8465A43901</string>
+			<key>Distinguished Kind</key><integer>203</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEAAwAAAAIAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABcAAAIAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABELa4tri2uLa7//////////gAAAAAACTqA
+			La4tri2uLa4AAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA5AgAAAQAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAB
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+		</dict>
+		<dict>
+			<key>Name</key><string>Top 25 Most Played</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>444</integer>
+			<key>Playlist Persistent ID</key><string>76C7B8FD036CE6F9</string>
+			<key>Distinguished Kind</key><integer>202</integer>
+			<key>All Items</key><true/>
+			<key>Smart Info</key>
+			<data>
+			AQEBAwAAABkAAAAZAAAAAAAAAAcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAA==
+			</data>
+			<key>Smart Criteria</key>
+			<data>
+			U0xzdAABAAEAAAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADkCAAABAAAAAAAAAAAAAAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABEAAAAAAAAAAEAAAAAAAAAAAAAAAAAAAAB
+			AAAAAAAAAAEAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAWAAAAEAAA
+			AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAARAAAAAAAAAAA
+			AAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAAAAA
+			AAAAAAAA
+			</data>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>137</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>139</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>141</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>143</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>147</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>149</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>151</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>153</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>157</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>191</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>193</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>171</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>195</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>197</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>199</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>201</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>203</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>207</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>209</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>211</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>213</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>215</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>217</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>219</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>227</integer>
+				</dict>
+			</array>
+		</dict>
+		<dict>
+			<key>Name</key><string>051824-002-B_SQ_0_VF_01154346_MP4-2200_AMM-ALW-HLS</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>472</integer>
+			<key>Playlist Persistent ID</key><string>91C28D917281604A</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>052171-011-A_SQ_0_VO_01165083_MP4-2200_AMM-ALW-HLS</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>475</integer>
+			<key>Playlist Persistent ID</key><string>0A3EDEDF6F2EE659</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>052454-000-A_SQ_0_VO_01193121_MP4-2200_AMM-ALW-HLS</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>478</integer>
+			<key>Playlist Persistent ID</key><string>575CD75C9D9266D4</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>052516-000-A_SQ_0_VO_01192895_MP4-2200_AMM-ALW-HLS</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>481</integer>
+			<key>Playlist Persistent ID</key><string>BE99E5335F5D17BC</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>052516-000-A_SQ_0_VO_01192895_MP4-2200_AMM-ALW-HLS (1)</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>484</integer>
+			<key>Playlist Persistent ID</key><string>4E4FDA1AD29D9183</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>052516-000-A_SQ_0_VO_01192895_MP4-2200_AMM-ALW-HLS (2)</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>487</integer>
+			<key>Playlist Persistent ID</key><string>44784A17DBCD9386</string>
+			<key>All Items</key><true/>
+		</dict>
+		<dict>
+			<key>Name</key><string>Internet Songs</string>
+			<key>Description</key><string></string>
+			<key>Playlist ID</key><integer>490</integer>
+			<key>Playlist Persistent ID</key><string>0AEF4AAE4B379277</string>
+			<key>All Items</key><true/>
+			<key>Playlist Items</key>
+			<array>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>221</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>225</integer>
+				</dict>
+				<dict>
+					<key>Track ID</key><integer>131</integer>
+				</dict>
+			</array>
+		</dict>
+	</array>
+</dict>
+</plist>
