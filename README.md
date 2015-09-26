@@ -1,4 +1,6 @@
 # ItunesParser
+[![Dependency Status](https://gemnasium.com/elfenars/itunes_parser.svg)](https://gemnasium.com/elfenars/itunes_parser)
+[![Code Climate](https://codeclimate.com/github/elfenars/itunes_parser/badges/gpa.svg)](https://codeclimate.com/github/elfenars/itunes_parser)
 
 A simple and fast iTunes Library XML parser based on nokogiri-plist.
 
