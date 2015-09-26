@@ -67,7 +67,7 @@ Then you can:
 
 You can use the example XML in the ```examples``` folder and check it in the console running ```bin/console```.
 
-** THIS GEM IS STILL UNDER DEVELOPMENT **
+**THIS GEM IS STILL UNDER DEVELOPMENT**
 
 ## Contributing
 
