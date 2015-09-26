@@ -1,9 +1,8 @@
 #!/usr/bin/env ruby
 
 require "bundler/setup"
-require "pry"
-
 load "lib/itunes_parser.rb"
+require "pry"
 
 def reload!
   load "lib/itunes_parser.rb"

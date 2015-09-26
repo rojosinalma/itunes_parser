@@ -32,22 +32,16 @@ Then you can:
       ip.playlists
     ```
 
-* Or print them with just the basics:
+* Or get them with just the ID and Name:
 
     ```
-      ip.pretty_playlists
+      ip.playlists(pretty: true)
     ```
 
-* Find the ID of a playlist given it's name:
+* And then show its tracks based on the ID:
 
     ```
-      playlist_id = ip.find_playlist_id "Top 25 Most Played"
-    ```
-
-* And then show its tracks based on the ID you found:
-
-    ```
-      a.playlist_tracks playlist_id
+      a.playlist_tracks(id: <playlist_id>)
     ```
 
 * Or check all the tracks:
@@ -56,10 +50,16 @@ Then you can:
       a.tracks
     ```
 
-* Check just one track based on the ID:
+* Of course you can also get just the ID and Name:
 
     ```
-      a.track <track_id>
+      a.tracks(pretty: true)
+    ```
+
+* And check just one track based on the ID:
+
+    ```
+      a.track(id: <track_id>)
     ```
 
 

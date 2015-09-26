@@ -1,19 +1,14 @@
-require 'rubygems'
-
-require 'itunes_parser/itunes_plist'
-require 'itunes_parser/track'
-require 'itunes_parser/playlist'
-require 'itunes_parser/artist'
+require 'itunes_parser/plist'
 
 module ItunesParser
   class << self
 
     def new(args)
       library_file = open(args[:library_dir])
-      plist = ItunesPList.new(library_file)
+      plist        = PList.new(file: library_file)
       library_file.close
 
-      return plist
+      plist
     end
   end
 end

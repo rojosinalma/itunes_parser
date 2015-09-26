@@ -1,4 +1,5 @@
 module ItunesParser
-  class Artist
+  module Artist
+    # TODO
   end
 end

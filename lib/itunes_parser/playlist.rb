@@ -1,22 +1,35 @@
 module ItunesParser
-  class Playlist
+  module Playlist
 
-    def initialize plist_playlist = {}
-      @id         = plist_playlist["Playlist ID"]      || nil
-      @name       = plist_playlist["Name"]             || ""
-      @master     = plist_playlist["Master"]           || false
-      @visible    = plist_playlist["Visible"]          || false
-      @all_items  = plist_playlist["All Items"]        || false
-      @items      = construct_playlist(plist_playlist) || []
+    # Shows all playlists in the doc.
+    # Returns Array of Hashes, each Hash is a playlist.
+    # Optional param `pretty` returns Array of Hashes with only IDs and Names.
+    def playlists(pretty: false)
+      _playlists = doc["Playlists"]
+
+      unless pretty
+        _playlists
+      else
+        _playlists.collect{|pl| {id: pl["Playlist ID"], name: pl["Name"] }}
+      end
     end
 
-    private
+    # Shows one playlist.
+    # Returns Hash with playlist info.
+    def playlist(id:)
+      playlists.select{|pl| pl["Playlist ID"] == id}.first
+    end
 
-    def construct_playlist items
-      items.each do |_, item_id|
-        # Convert to track
+    # Shows all tracks of a playlist.
+    # Returns Array of Hashes, each Hash is a track.
+    def playlist_tracks(id:)
+      tracks = []
 
+      playlist(id: id)["Playlist Items"].each do |playlist_item|
+        tracks << self.track(id: playlist_item["Track ID"])
       end
+
+      tracks
     end
   end
 end
