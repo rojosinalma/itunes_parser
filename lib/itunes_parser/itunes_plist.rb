@@ -4,28 +4,43 @@ module ItunesParser
   class ItunesPList
     attr_reader :plist
 
-    def initialize file = nil
+    def initialize(file = nil)
       @plist = Nokogiri::PList(file)
+    end
+
+    def playlists
+      plist["Playlists"]
+    end
+
+    def pretty_playlists
+      playlists.collect{|pl| {id: pl["Playlist ID"], name: pl["Name"]} }
+    end
+
+    def playlist(playlist_id = nil)
+      playlists.select{|pl| pl["Playlist ID"] == playlist_id}.first
+    end
+
+    def find_playlist_id(playlist_name = "")
+      playlists.select{|pl| pl["Name"] == playlist_name}.first["Playlist ID"]
     end
 
     def tracks
       @plist["Tracks"]
     end
 
-    def playlists
-      @plist["Playlists"].collect{|pl| {id: pl["Playlist ID"], name: pl["Name"]} }
+    def track(track_id = nil)
+      tracks.select{|pl| pl["#{track_id}"]}.first[1]
     end
 
-    def find_playlist name
-      name = name.gsub(/\b(?<!['â`])[a-z]/) { $&.capitalize }
-      pl = playlists.select{|pl| pl["Name"] == name}.first
+    def playlist_tracks(playlist_id = nil)
+      playlist = playlist playlist_id
 
-      res_playlist = []
-      pl.each do |_, track_id|
-        res_playlist << Track.find(track_id)
+      tracks = []
+      playlist["Playlist Items"].each do |_, track_id|
+        tracks << track(track_id)
       end
 
-      res_playlist
+      return tracks
     end
   end
 end

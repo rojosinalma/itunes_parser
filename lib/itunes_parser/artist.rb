@@ -1,4 +1,4 @@
 module ItunesParser
-  class Artist < ItunesPList
+  class Artist
   end
 end

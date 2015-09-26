@@ -1,5 +1,5 @@
 module ItunesParser
-  class Track < ItunesPList
+  class Track
 
     # Returns hash with track info
     def find id
