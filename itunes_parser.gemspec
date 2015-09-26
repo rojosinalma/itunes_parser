@@ -9,8 +9,8 @@ Gem::Specification.new do |spec|
   spec.authors       = ["Feña Agar"]
   spec.email         = ["ferliagno@gmail.com"]
   spec.licenses      = ['UNLICENSE']
-  spec.summary       = %q{iTunes XML parser}
-  spec.description   = %q{a fast iTunes XML parser based on Nokogiri}
+  spec.summary       = %q{iTunes XML parser based on nokogiri-plist}
+  spec.description   = %q{A fast and simple iTunes XML parser based on nokogiri-plist}
   spec.homepage      = "https://github.com/elfenars/itunes_parser"
 
   spec.files         = `git ls-files -z`.split("\x0").reject { |f| f.match(%r{^(test|spec|features)/}) }
