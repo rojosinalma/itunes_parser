@@ -22,7 +22,7 @@ Or install it yourself as:
 
 First, create a new instance:
 
-    ip = ItunesParse.new("/route/to/the/file.xml")
+    ip = ItunesParser.new("/route/to/the/file.xml")
 
 Then you can:
 
