@@ -4,9 +4,11 @@ module ItunesParser
   class << self
 
     def new(args)
-      library_file = open(args[:library_dir])
-      plist        = PList.new(file: library_file)
-      library_file.close
+      raise ArgumentError, 'No Library file specified' if args[:file].nil? || args[:file].empty?
+
+      xml_file = open(args[:file])
+      plist        = PList.new(file: xml_file)
+      xml_file.close
 
       plist
     end

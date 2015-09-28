@@ -16,13 +16,13 @@ module ItunesParser
 
     # Shows one playlist.
     # Returns Hash with playlist info.
-    def playlist(id:)
+    def playlist(id)
       playlists.select{|pl| pl["Playlist ID"] == id}.first
     end
 
     # Shows all tracks of a playlist.
     # Returns Array of Hashes, each Hash is a track.
-    def playlist_tracks(id:)
+    def playlist_tracks(id)
       tracks = []
 
       playlist(id: id)["Playlist Items"].each do |playlist_item|

@@ -16,7 +16,7 @@ module ItunesParser
 
     # Shows one track.
     # Returns Hash with track info.
-    def track(id:)
+    def track(id)
       tracks.select{|pl| pl["#{id}"] }.first[1]
     end
   end
