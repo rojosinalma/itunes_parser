@@ -25,7 +25,7 @@ module ItunesParser
     def playlist_tracks(id)
       tracks = []
 
-      playlist(id: id)["Playlist Items"].each do |playlist_item|
+      playlist(id)["Playlist Items"].each do |playlist_item|
         tracks << self.track(id: playlist_item["Track ID"])
       end
 
