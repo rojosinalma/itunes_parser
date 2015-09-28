@@ -5,7 +5,7 @@ module ItunesParser
     # Returns Hash { track_id => { <track_information> } }
     # Optional param `pretty` returns Array of Hashes with only IDs and Names.
     def tracks pretty: false
-      _tracks = doc["Tracks"]
+      _tracks = self.doc["Tracks"]
 
       unless pretty
         _tracks
@@ -17,7 +17,7 @@ module ItunesParser
     # Shows one track.
     # Returns Hash with track info.
     def track(id)
-      tracks.select{|pl| pl["#{id}"] }.first[1]
+      tracks["#{id}"]
     end
   end
 end

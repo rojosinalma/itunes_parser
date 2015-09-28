@@ -5,7 +5,7 @@ module ItunesParser
     # Returns Array of Hashes, each Hash is a playlist.
     # Optional param `pretty` returns Array of Hashes with only IDs and Names.
     def playlists(pretty: false)
-      _playlists = doc["Playlists"]
+      _playlists = self.doc["Playlists"]
 
       unless pretty
         _playlists
@@ -26,7 +26,7 @@ module ItunesParser
       tracks = []
 
       playlist(id)["Playlist Items"].each do |playlist_item|
-        tracks << self.track(id: playlist_item["Track ID"])
+        tracks << self.track(playlist_item["Track ID"])
       end
 
       tracks
