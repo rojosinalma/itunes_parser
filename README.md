@@ -37,7 +37,7 @@ Or install it yourself as:
 
 First, create a new instance:
 
-    ip = ItunesParser.new("/route/to/the/file.xml")
+    ip = ItunesParser.new(xml_dir: "/route/to/the/file.xml")
 
 Then you can:
 
@@ -72,7 +72,7 @@ Copyright (c)
 
 ## Development
 
-You can use the example XML in the +examples+ folder and check it in the console running +bin/console+.
+You can use the example XML in the ```examples``` folder and check it in the console running ```bin/console```.
 
 ## Contributing
 
