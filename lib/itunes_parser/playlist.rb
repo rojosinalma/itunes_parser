@@ -10,7 +10,7 @@ module ItunesParser
       unless pretty
         _playlists
       else
-        _playlists.collect{|pl| {id: pl["Playlist ID"], name: pl["Name"] }}
+        _playlists.collect{|pl| { id: pl["Playlist ID"], name: pl["Name"] }}
       end
     end
 
@@ -24,6 +24,8 @@ module ItunesParser
     # Returns Array of Hashes, each Hash is a track.
     def playlist_tracks(id)
       tracks = []
+      items = playlist(id)["Playlist Items"]
+      return tracks if items.nil?
 
       playlist(id)["Playlist Items"].each do |playlist_item|
         tracks << self.track(playlist_item["Track ID"])
