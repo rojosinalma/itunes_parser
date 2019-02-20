@@ -37,7 +37,7 @@ Or install it yourself as:
 
 First, create a new instance:
 
-    ip = ItunesParser.new(xml_dir: "/route/to/the/file.xml")
+    ip = ItunesParser.new(file: "/route/to/the/file.xml")
 
 Then you can:
 
