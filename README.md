@@ -63,7 +63,7 @@ Then you can:
 
 * And check just one track based on the ID:
 
-        a.track(id: <track_id>)
+        a.track(<track_id>)
 
 ## Author
 
