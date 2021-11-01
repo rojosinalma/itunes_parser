@@ -68,7 +68,7 @@ Then you can:
 ## Author
 
 Copyright (c)
-* [Feña Agar](http://fernandoagar.cl) (fernando.agar@gmail.com)
+* [Feña Agar](http://rojo.dev) (rojo@rojo.dev)
 
 ## Development
 
@@ -76,12 +76,12 @@ You can use the example XML in the ```examples``` folder and check it in the con
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/elfenars/itunes_parser.
+Bug reports and pull requests are welcome on GitHub at https://github.com/rojosinalma/itunes_parser.
 This project is intended to be a safe, welcoming space for collaboration,
 and contributors are expected to adhere to the [Contributor Covenant](http://contributor-covenant.org) code of conduct.
 
 ## License
 
 This library is distributed under the UNLICENSE license.
-Please see the [LICENSE](https://github.com/elfenars/itunes_parser/blob/master/LICENSE) file.
+Please see the [LICENSE](https://github.com/rojosinalma/itunes_parser/blob/master/LICENSE) file.
 
